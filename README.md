@@ -1,5 +1,5 @@
 # Genetic-Algorithm
-Genetic Algorithm simulating evolution of creature to going to the target and avoiding enemies
+Genetic Algorithm simulating evolution of creatures going to the target and avoiding enemies
 
 # build the project 
 clone or download this repo\
